@@ -1,0 +1,5 @@
+1 - ¿Qué problemas se pueden ver a simple vista?
+Se puede observar que en la primera ejecución el comensal 0 se come todas las hamburguesas, mientras que en la segunda es el comensal 1 el que se come todas las hamburguesas. 
+
+2 - ¿Qué nombre se le dá a esta falla que ocurre en el código que provoca que cada ejecución presente resultados diferentes?
+Rage Conditions
